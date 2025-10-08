@@ -1,0 +1,4 @@
+Title: Orange - Importing and Visualizing Multi-Format Student Datasets
+
+Description:
+An Orange data workflow demonstrating how to import and visualize datasets from multiple file formats, including Excel, CSV, and Google Sheets. The project showcases how to load data, inspect tables, and selectively manage columns using the Select Columns widget. It provides a clear overview of Orange’s capability to handle heterogeneous data sources efficiently.
